@@ -52,18 +52,8 @@ This system helps recruiters and candidates by providing two powerful features:
 - 📩 Email Notification for shortlisted candidates
 - 🎯 Dual Mode System (Recruiter + Candidate)
 - 💡 Smart Recommendations System
-
----
-
-## 📸 Screenshots
-
-- Home Page  
-- JD → Resume Matching  
-- Resume → Best Job Match  
-- Analysis Report  
-- Graph Dashboard  
-
----
+ 
+ ---
 
 ## 💯 Results
 
@@ -90,4 +80,4 @@ This system helps recruiters and candidates by providing two powerful features:
 
 ## ⭐ Give a Star
 
-If you like this project, consider giving it a ⭐ on GitHub!
+If you like this project, consider giving it a ⭐ 
